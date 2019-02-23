@@ -1,0 +1,24 @@
+_repo: Washington-and-the-Riddle-of-Peace_58877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2019-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Washington and the Riddle of Peace
+url: http://www.gutenberg.org/ebooks/58877
